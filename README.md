@@ -1,5 +1,7 @@
 # MERN Layout
 
+[![Build Status](https://travis-ci.org/dragoneyelabs/mern-layout.svg?branch=master)](https://travis-ci.org/dragoneyelabs/mern-layout)
+
 This project provides basic layout for a full-stack MERN project.
 
 ## Usage
